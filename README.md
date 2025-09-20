@@ -76,11 +76,6 @@ Best-selling products
 
 Contribution to revenue
 
-(Insert screenshots here, e.g.)
-
-![Sales Dashboard](visuals/sales_dashboard.png)
-![Product Insights](visuals/product_insights.png)
-
 ✅ Key Insights
 
 North region generates 40% of revenue → Target promotions there.
